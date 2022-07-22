@@ -1,7 +1,24 @@
-p, h1, h2, h3, h4, h5, h6, li {
+body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
     color: ghostwhite;
     background-color: black;
 
+}
+
+title, h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
+
+a {
+    color: hotpink;
+}
+
+.indexLinks {
+    font-size: 25px
 }
